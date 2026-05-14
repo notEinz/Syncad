@@ -1,0 +1,24 @@
+[
+  {
+    "id": "bf2c4b2cc0f444f6b94b90c34eca06fa",
+    "filename": "old.stl",
+    "tag": "old",
+    "created_at": "2026-05-13T19:03:11.857116+00:00",
+    "faces": 12,
+    "vertices": 8,
+    "source_path": "uploads/bf2c4b2cc0f444f6b94b90c34eca06fa_old.stl",
+    "stl_path": "revisions/bf2c4b2cc0f444f6b94b90c34eca06fa.stl",
+    "thumbnail_url": "/static/thumbs/bf2c4b2cc0f444f6b94b90c34eca06fa.png"
+  },
+  {
+    "id": "81d4fc8116444ccd83f3162919537f0c",
+    "filename": "new.stl",
+    "tag": "new",
+    "created_at": "2026-05-13T19:03:12.089789+00:00",
+    "faces": 24,
+    "vertices": 16,
+    "source_path": "uploads/81d4fc8116444ccd83f3162919537f0c_new.stl",
+    "stl_path": "revisions/81d4fc8116444ccd83f3162919537f0c.stl",
+    "thumbnail_url": "/static/thumbs/81d4fc8116444ccd83f3162919537f0c.png"
+  }
+]
